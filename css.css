@@ -1,0 +1,17 @@
+.photo{
+    Display:flex;
+    justify-content: space-evenly;
+}
+.name{
+    Display:flex;
+    justify-content: space-evenly;
+    color:blueviolet;
+}
+.menu{
+  background-color: aqua;
+}
+.snap{
+  Display:flex;
+  justify-content: space-evenly;
+  background-color: red;
+}
